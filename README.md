@@ -42,3 +42,5 @@ All Source from Tutorial
 01. Getting Started With jQuery = [https://bit.ly/2UVmaHo](https://bit.ly/2UVmaHo)
 01. Getting Started with CodePen = [https://bit.ly/34qjwfN](https://bit.ly/34qjwfN)
 01. Vue JS Basics = [https://bit.ly/34ufR0O](https://bit.ly/34ufR0O)
+01. Amazon Polly = [https://bit.ly/3emZtDQ](https://bit.ly/3emZtDQ)
+01. Getting Started with Adobe  Experience Design = [https://bit.ly/2RK09cP](https://bit.ly/2RK09cP)
