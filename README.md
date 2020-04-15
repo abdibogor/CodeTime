@@ -56,4 +56,4 @@ All Source from Tutorial
 01. Getting Started with the Raspberry Pi = [https://bit.ly/2wBJfpc](https://bit.ly/2wBJfpc)
 01. Using the Darksky API with PHP = [https://bit.ly/2Vu9lD1](https://bit.ly/2Vu9lD1)
 01. CSS Typography = [https://bit.ly/2XAhF6L](https://bit.ly/2XAhF6L)
-![Abdibogoreh](/images/logo.png)
+![Abdibogoreh](/images/logo.png style="max-width:100px;")
