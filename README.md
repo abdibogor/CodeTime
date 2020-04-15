@@ -54,3 +54,6 @@ All Source from Tutorial
 01. Getting Started with Composer = [https://bit.ly/2K58tiO](https://bit.ly/2K58tiO)
 01. Instant Laravel Upgrades with Laravel Shift = [https://bit.ly/3a4tAfW](https://bit.ly/3a4tAfW)
 01. Getting Started with the Raspberry Pi = [https://bit.ly/2wBJfpc](https://bit.ly/2wBJfpc)
+01. Using the Darksky API with PHP = [https://bit.ly/2Vu9lD1](https://bit.ly/2Vu9lD1)
+01. CSS Typography = [https://bit.ly/2XAhF6L](https://bit.ly/2XAhF6L)
+![Abdibogoreh](/images/logo.png)
