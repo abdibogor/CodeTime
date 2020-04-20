@@ -67,3 +67,5 @@ All Source from Tutorial
 01. Hosting WordPress on Digital Ocean = [https://bit.ly/3bjDdZj](https://bit.ly/3bjDdZj)
 01. Getting Started with Electron = [https://bit.ly/3bk68g4](https://bit.ly/3bk68g4)
 01. Getting Started with Adobe Typekit = [https://bit.ly/2zbe456](https://bit.ly/2zbe456)
+01. How to Create Navbars with Bootstrap 4 = [https://bit.ly/3ezNO4E](https://bit.ly/3ezNO4E)
+01. No-Code Customization of the WordPress Twenty Seventeen Theme = [https://bit.ly/2XRXDoI](https://bit.ly/2XRXDoI)
